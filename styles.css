@@ -1,0 +1,8 @@
+body {
+  background-image: url("OBMC.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+  padding: 15px;
+}
